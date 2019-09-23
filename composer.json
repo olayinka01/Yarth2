@@ -35,6 +35,7 @@
 	},
 	"require": {
 	"laravel/framework": "4.2.*",
+	"php": "5.5.*",
 	"gloudemans/shoppingcart": "~1.2"
 },
 	"minimum-stability": "stable"
